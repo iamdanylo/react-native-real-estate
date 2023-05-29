@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "esnext",
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "importHelpers": true,
+    "noEmit": true,
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "isolatedModules": true,
+    "esModuleInterop": true,
+    "jsx": "react-native",
+    "baseUrl": ".",
+    "paths": {
+      "src/*": [ "src/*" ],
+      "assets/*": [ "src/assets/*" ],
+      "*": [
+        "*",
+        "node_modules/*"
+      ]
+    },
+    "lib": [
+      "es2015",
+      "es5",
+      "es2016",
+      "es6",
+      "es2017",
+      "es7",
+      "DOM"
+    ],
+    "skipLibCheck": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}

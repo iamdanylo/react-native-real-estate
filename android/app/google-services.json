@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "347887645306",
+    "project_id": "domally",
+    "storage_bucket": "domally.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347887645306:android:2aa4535b1b8e20965641c3",
+        "android_client_info": {
+          "package_name": "com.domally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347887645306-r2p8ej6ibptvmv4pebg0c5o3dug8h9tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdFjrIhO9kx_4UCqXThifH4e_6aXa4rlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347887645306-r2p8ej6ibptvmv4pebg0c5o3dug8h9tf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "347887645306-p8rgjp1c5771lj3oa8546bj58c59c9v9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.domally",
+                "app_store_id": "1575535673"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
